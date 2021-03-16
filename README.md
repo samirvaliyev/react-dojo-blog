@@ -1,1 +1,1 @@
-# complete-ninja-react-rutorial
+# react-dojo-blog
