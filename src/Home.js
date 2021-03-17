@@ -1,7 +1,7 @@
 const Home = () => {
 
     const handleClick = (e) => {
-        console.log('hello, ninjas', e);
+        console.log('helloo, ninjas', e);
     };
 
     const handleClickAgain = (name, e) => {
